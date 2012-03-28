@@ -1,0 +1,28 @@
+Todays development: (Effort spent : canvas study : 2 hrs + work : 3.5 hrs)
+----------------------------------------------------------------------------------------------------
+
+-> Image loading to canvas
+-> drawing and forming  mouseup and mousedown events
+->  Logic of image selection when crop border selects - i.e marquee options
+-> One side fixed cropping..
+
+Next agenda:
+---------------------------------------------------------------------------
+-> Create 4 anchor points (or 8)
+-> Move them and finally get the coordinates
+-> Crop and display in canvas
+
+Improvement areas:
+-------------------------------------------------
+-> Browser compatibility .. ( dont know at the end I saw it works only with chrome..)
+-> No architecture followed, functions called as and when required. Better to form the event logic and flow
+-> Need to learn about industry standard coding.. ( I saw some examples related to canvas compatibility.. It was nicely written..)
+-> GUI
+
+Questions :
+------------------------------------------------
+1.  Is this approach ok ? suggestions please
+2.  I had an idea of using sliders (as an easy way), instead of using drag and select..
+3. Am I too slow? I really don't know how much time is this going to take. But this is interesting enough to keep me awake till late night..)
+
+
